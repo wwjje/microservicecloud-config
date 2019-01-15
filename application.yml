@@ -13,4 +13,4 @@ spring:
   application:
     name: microservicecloud-config-fuse-test
 
-## 一定要保存为UTF-8格式
+# 一定要保存为UTF-8格式
